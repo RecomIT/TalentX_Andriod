@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="33.176" height="31.486" viewBox="0 0 33.176 31.486">
+  <g id="employee" transform="translate(0 -13.038)">
+    <path id="Path_214" data-name="Path 214" d="M366.4,108.48h-1.135v6.8a.972.972,0,0,1-1.944,0v-6.8h-1.136a4.044,4.044,0,0,0-1.508.29,6.016,6.016,0,0,1,1.35,3.8V120.9a2.893,2.893,0,0,1-.167.972h7.651a.972.972,0,0,0,.972-.972v-8.326A4.092,4.092,0,0,0,366.4,108.48Z" transform="translate(-337.309 -89.258)" fill="#437ddd"/>
+    <ellipse id="Ellipse_25" data-name="Ellipse 25" cx="3.079" cy="3.088" rx="3.079" ry="3.088" transform="translate(23.908 13.038)" fill="#437ddd"/>
+    <path id="Path_215" data-name="Path 215" d="M350.225,354.2a.972.972,0,0,0,.971.925h5.692a.972.972,0,0,0,.971-.92l.489-9.046h-8.558Z" transform="translate(-327.124 -310.601)" fill="#437ddd"/>
+    <path id="Path_216" data-name="Path 216" d="M29.248,354.2a.972.972,0,0,0,.971.925h5.692a.972.972,0,0,0,.971-.92l.489-9.046H28.812Z" transform="translate(-26.945 -310.601)" fill="#437ddd"/>
+    <path id="Path_217" data-name="Path 217" d="M8.455,120.9v-8.326a6.016,6.016,0,0,1,1.35-3.8,4.044,4.044,0,0,0-1.508-.29H7.161v6.8a.972.972,0,0,1-1.944,0v-6.8H4.082A4.092,4.092,0,0,0,0,112.574V120.9a.972.972,0,0,0,.972.972H8.623A2.892,2.892,0,0,1,8.455,120.9Z" transform="translate(0 -89.258)" fill="#437ddd"/>
+    <ellipse id="Ellipse_26" data-name="Ellipse 26" cx="3.079" cy="3.088" rx="3.079" ry="3.088" transform="translate(3.109 13.038)" fill="#437ddd"/>
+    <path id="Path_218" data-name="Path 218" d="M189.737,354.2a.972.972,0,0,0,.971.925H196.4a.972.972,0,0,0,.971-.919l.489-9.046H189.3Z" transform="translate(-177.035 -310.602)" fill="#437ddd"/>
+    <path id="Path_219" data-name="Path 219" d="M172.868,112.573a4.092,4.092,0,0,0-4.081-4.094h-1.136v6.805a.972.972,0,1,1-1.944,0v-6.805h-1.135a4.092,4.092,0,0,0-4.081,4.094V120.9a.972.972,0,0,0,.972.972H171.9a.972.972,0,0,0,.972-.972Z" transform="translate(-150.091 -89.257)" fill="#437ddd"/>
+    <ellipse id="Ellipse_27" data-name="Ellipse 27" cx="3.079" cy="3.088" rx="3.079" ry="3.088" transform="translate(13.578 13.038)" fill="#437ddd"/>
+  </g>
+</svg>

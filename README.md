@@ -1,1 +1,2 @@
-This is andriod file solution
+# Shop Up App
+

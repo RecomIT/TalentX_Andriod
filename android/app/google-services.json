@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "986573780298",
+    "project_id": "talentx-android",
+    "storage_bucket": "talentx-android.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:986573780298:android:40924757e5adc5263f3db3",
+        "android_client_info": {
+          "package_name": "com.recombd.talentx_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "986573780298-1s92388hkndbtp46ldns7dfd14np3fi0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.recombd.talentx_app",
+            "certificate_hash": "39e6b3d037a2247dfc2d8d0106144de2bf41f856"
+          }
+        },
+        {
+          "client_id": "986573780298-rd3n6gq5i8obcrihu4ndm320cn8222qr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.recombd.talentx_app",
+            "certificate_hash": "14aa0f40f065020d1da7e4154bc68348c6f4121c"
+          }
+        },
+        {
+          "client_id": "986573780298-v7aoj138janesa7o5lscceuncs4alp20.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC4aCBIv54TW1EY-MnHJQ4GG0XHQhKrmbM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "986573780298-iddn81j4nl15bjf01q48u8t1ub5db6tk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

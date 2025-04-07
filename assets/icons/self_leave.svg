@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="63.031" height="63.021" viewBox="0 0 63.031 63.021">
+  <g id="calendar_1_" data-name="calendar (1)" transform="translate(-212 -7)">
+    <g id="Group_889" data-name="Group 889" transform="translate(212 7)">
+      <g id="Group_886" data-name="Group 886" transform="translate(0 0)">
+        <ellipse id="Ellipse_44" data-name="Ellipse 44" cx="2.5" cy="3" rx="2.5" ry="3" transform="translate(23.451 22.451)" fill="#437ddd"/>
+        <ellipse id="Ellipse_45" data-name="Ellipse 45" cx="2.5" cy="3" rx="2.5" ry="3" transform="translate(23.451 33.451)" fill="#437ddd"/>
+        <circle id="Ellipse_46" data-name="Ellipse 46" cx="2.5" cy="2.5" r="2.5" transform="translate(23.451 44.451)" fill="#437ddd"/>
+        <circle id="Ellipse_47" data-name="Ellipse 47" cx="3" cy="3" r="3" transform="translate(12.451 22.451)" fill="#437ddd"/>
+        <ellipse id="Ellipse_48" data-name="Ellipse 48" cx="3" cy="2.5" rx="3" ry="2.5" transform="translate(12.451 44.451)" fill="#437ddd"/>
+        <ellipse id="Ellipse_49" data-name="Ellipse 49" cx="2.5" cy="3" rx="2.5" ry="3" transform="translate(34.451 22.451)" fill="#437ddd"/>
+        <ellipse id="Ellipse_51" data-name="Ellipse 51" cx="2.5" cy="3" rx="2.5" ry="3" transform="translate(44.451 22.451)" fill="#437ddd"/>
+        <circle id="Ellipse_50" data-name="Ellipse 50" cx="3" cy="3" r="3" transform="translate(12.451 33.451)" fill="#437ddd"/>
+        <path id="Path_565" data-name="Path 565" d="M52.925,4.9H49.74V2.45a2.45,2.45,0,0,0-4.9,0V4.9H33.691V2.45a2.45,2.45,0,1,0-4.9,0V4.9H17.764V2.45a2.45,2.45,0,1,0-4.9,0V4.9H9.8A9.812,9.812,0,0,0,0,14.7V52.925a9.812,9.812,0,0,0,9.8,9.8H25.85a2.45,2.45,0,0,0,0-4.9H9.8a4.906,4.906,0,0,1-4.9-4.9V14.7A4.906,4.906,0,0,1,9.8,9.8h3.063v2.45a2.45,2.45,0,1,0,4.9,0V9.8H28.79v2.45a2.45,2.45,0,1,0,4.9,0V9.8H44.839v2.45a2.45,2.45,0,0,0,4.9,0V9.8h3.185a4.906,4.906,0,0,1,4.9,4.9V29.4a2.45,2.45,0,0,0,4.9,0V14.7A9.812,9.812,0,0,0,52.925,4.9Z" fill="#437ddd"/>
+      </g>
+      <g id="user" transform="translate(34.268 34.268)">
+        <g id="Group_888" data-name="Group 888" transform="translate(0 0)">
+          <path id="Path_566" data-name="Path 566" d="M28.182,24.209a1.1,1.1,0,0,0-2.161.45,1.153,1.153,0,0,1-.234.967,1.121,1.121,0,0,1-.883.42H3.349a1.121,1.121,0,0,1-.883-.42,1.153,1.153,0,0,1-.234-.967A12.194,12.194,0,0,1,13.834,15q.146.006.293.006T14.421,15a12.141,12.141,0,0,1,9.805,5.389,1.1,1.1,0,1,0,1.833-1.229,14.355,14.355,0,0,0-7.439-5.652,7.5,7.5,0,1,0-8.983,0A14.355,14.355,0,0,0,.072,24.209a3.353,3.353,0,0,0,3.278,4.044H24.9a3.353,3.353,0,0,0,3.278-4.044ZM8.829,7.5A5.3,5.3,0,1,1,14.395,12.8l-.268,0-.267,0A5.3,5.3,0,0,1,8.829,7.5Z" transform="translate(0)" fill="#437ddd" stroke="#437ddd" stroke-width="1"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
